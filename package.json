@@ -11,9 +11,12 @@
     "url": "https://github.com/Isszul/nodeSnmpSimulator"
   },
   "keywords": [
-    "Snmp",
+    "Snmp", 
     "Simulator"
   ],
   "author": "Alex Thomas",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+      "node-snmp-server" : ""
+  }
 }
